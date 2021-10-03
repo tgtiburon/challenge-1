@@ -1,42 +1,19 @@
-# 01 HTML, CSS, and Git: Code Refactor
+## Horiseon Code Refactor Challenge
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
+I was given the task of taking an index.html and a style.css which created a functional website for a company called Horiseon.  The website was pleasing to look at but was lacking in how the html and css was structured for both readability and for accessibity.  I replaced many of the non-semantic elements with semantic ones and added other elements to make the website more accessible for users who would be using a reader to access the site.  In addition to this I reorganized the html and css to be in a more logical order as well as been more efficient by consolodating classes that were reusing code.
 
-For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it.
+#Skills I demonstrate in this project
 
-To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+  1. Proper implementation of the <nav> element.
+  2. Proper implementation of the <hero> element.
+  3. Implementation of <main> and <aside> to create an efficient webpage.
+  4. Implementation of accessiblity features for users who need it.
+  5. Proper implementation of <footer> and <header> elements.
+  6. Use of /*#region/ to make code easier to read.
+  7. Use of comments to make code be easily maintained in the future.
+  
+  
+ #Why did I do this project?
+  
+  As a new developer I worked on this project as a way to solidify my understanding in how html and css can be used to not only create a website, but to created a website that is pleasant to look at, but also be useful to those who need accomidation.
 
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
