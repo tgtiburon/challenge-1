@@ -6,10 +6,10 @@ I was given the task of taking an index.html and a style.css which created a fun
 
   1. Proper implementation of the \<nav> element.
   2. Proper implementation of the \<hero> element.
-  3. Implementation of <main> and <aside> to create an efficient webpage.
+  3. Implementation of \<main> and \<aside> to create an efficient webpage.
   4. Implementation of accessiblity features for users who need it.
-  5. Proper implementation of <footer> and <header> elements.
-  6. Use of /*#region/ to make code easier to read.
+  5. Proper implementation of \<footer> and \<header> elements.
+  6. Use of \/*#region/ to make code easier to read.
   7. Use of comments to make code be easily maintained in the future.
   
   
