@@ -15,5 +15,5 @@ I was given the task of taking an index.html and a style.css which created a fun
   
  #Why did I do this project?
   
-  As a new developer I worked on this project as a way to solidify my understanding in how html and css can be used to not only create a website, but to created a website that is pleasant to look at, but also be useful to those who need accomidation.
+  As a new developer I worked on this project as a way to solidify my understanding in how html and css can be used to not only create a website, but to created a website that is pleasant to look at, but also be useful to those who need accommodation.
 
