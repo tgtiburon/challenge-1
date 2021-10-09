@@ -4,8 +4,8 @@ I was given the task of taking an index.html and a style.css which created a fun
 
 #Skills I demonstrate in this project
 
-  1. Proper implementation of the <nav> element.
-  2. Proper implementation of the <hero> element.
+  1. Proper implementation of the /<nav> element.
+  2. Proper implementation of the /<hero> element.
   3. Implementation of <main> and <aside> to create an efficient webpage.
   4. Implementation of accessiblity features for users who need it.
   5. Proper implementation of <footer> and <header> elements.
