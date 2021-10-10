@@ -1,4 +1,4 @@
-![image info](./assets/images/horiseon.png)
+![image info](/assets/images/horiseon.png)
 ## Horiseon Code Refactor Challenge
 
 I was given the task of taking an index.html and a style.css which created a functional website for a company called Horiseon.  The website was pleasing to look at but was lacking in how the html and css was structured for both readability and for accessibity.  I replaced many of the non-semantic elements with semantic ones and added other elements to make the website more accessible for users who would be using a reader to access the site.  In addition to this I reorganized the html and css to be in a more logical order as well as be more efficient by consolodating classes that were reusing code.
