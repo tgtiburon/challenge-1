@@ -32,7 +32,7 @@ I was given the task of taking an index.html and a style.css which created a fun
 
 ---
 ## Screenshot of Challenge-1 in action
-  ![](../dist/horiseon.png)
+  ![](horiseon.png)
   
   
 
