@@ -13,6 +13,8 @@ I was given the task of taking an index.html and a style.css which created a fun
   ## Table of Contents
 
   [Features](#features)
+
+  [Screenshot](#screenshot)
     
   [License](#license)
 
